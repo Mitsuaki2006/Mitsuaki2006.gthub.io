@@ -84,6 +84,7 @@ h2{
     margin:   0 16px   0   0;
     padding:15px;
     background-color:rgba(255, 0, 0, 0.783);
+    text-color:white;
 }
 
 #difender{
@@ -92,7 +93,7 @@ h2{
     margin:   10px 16px   0   0;
     padding:15px;
     background-color:rgba(0, 0, 255, 0.616)
-    
+    text-color:white;
 }
 
 #round{
