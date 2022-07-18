@@ -78,22 +78,7 @@ h2{
     background: linear-gradient(transparent 70%, rgba(255, 234, 0, 0.872) 70%);
   }
 
-#attacker{
-    list-style:none;
-    display:inline-block;
-    margin:   0 16px   0   0;
-    padding:15px;
-    background-color:rgba(255, 0, 0, 0.783);
-}
 
-#difender{
-    display: inline-block;
-    list-style:none;
-    margin:   10px 16px   0   0;
-    padding:15px;
-    background-color:rgba(0, 0, 255, 0.616)
-    
-}
 
 #round{
     display: inline-flex;
@@ -112,6 +97,23 @@ h2{
     border: 2px solid #000;
     border-radius :10px;
   }
+
+#attacker{
+    list-style:none;
+    display:inline-block;
+    margin:   0 16px   0   0;
+    padding:15px;
+    background-color:rgba(255, 0, 0, 0.783);
+}
+
+#difender{
+    display: inline-block;
+    list-style:none;
+    margin:   10px 16px   0   0;
+    padding:15px;
+    background-color:rgba(0, 0, 255, 0.616)
+    
+}
 #a{
     font-size:1.15em;
     
