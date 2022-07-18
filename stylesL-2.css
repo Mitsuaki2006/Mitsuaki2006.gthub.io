@@ -96,7 +96,7 @@ h2{
 }
 
 #round{
-    display: inline-flex;
+    display: inline-block;
     position: relative;
     background-color:rgb(255, 255, 85);
     border-radius :10px;
