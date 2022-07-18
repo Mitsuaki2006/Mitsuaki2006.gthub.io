@@ -2,28 +2,28 @@ var img;
 
 function png1(){
     img=document.getElementById("png5");
-    img.src="img/jett.png";
+    img.src="jett.png";
     img=document.getElementById("png6");
-    img.src="img/reyna.png";
+    img.src="reyna.png";
 }
 
 function png2(){
     img=document.getElementById("png5");
-    img.src="img/skye.png";
+    img.src="skye.png";
     img=document.getElementById("png6");
-    img.src="img/sova.png";
+    img.src="sova.png";
 }
 
 function png3(){
     img=document.getElementById("png5");
-    img.src="img/brimstone.png";
+    img.src="brimstone.png";
     img=document.getElementById("png6");
-    img.src="img/omen.png";
+    img.src="omen.png";
 }
 
 function png4(){
     img=document.getElementById("png5");
-    img.src="img/killjoy.png";
+    img.src="killjoy.png";
     img=document.getElementById("png6");
-    img.src="img/sage.png";
+    img.src="sage.png";
 }
